@@ -17,8 +17,7 @@ Country = "🇮🇳"
 <br>
   
 ----
-![GitHub followers](https://img.shields.io/github/followers/RocksKrishnaBot?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=RocksKrishnaBot.RocksKrishnaBot)
-[![Profile views](https://komarev.com/ghpvc/?username=RocksKrishnaBot&label=Profile%20views)](https://github.com/RocksKrishnaBot)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-AI)
+![](https://github-readme-stats.vercel.app/api?username=RocksKrishnaBot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RocksKrishnaBot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RocksKrishnaBot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ----
