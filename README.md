@@ -23,3 +23,6 @@ Country = "🇮🇳"
 ![](https://visitor-badge.glitch.me/badge?page_id=RocksKrishnaBot.RocksKrishnaBot)
 [![Profile views](https://komarev.com/ghpvc/?username=RocksKrishnaBot&label=Profile%20views)](https://github.com/RocksKrishnaBot)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-AI)
+
+----
+----
